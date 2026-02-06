@@ -155,16 +155,19 @@ How Much Booking Volume Is Lost to Cancellation?
 <p align="center" <img width="258" height="124" alt="Screenshot 2026-02-05 210345" src="https://github.com/user-attachments/assets/cce5625d-367c-4490-a4e3-89e1fe362e47" /> <br> <em> Top 5 Countries with the Highest Bookings</em> </p>
 
 
-Monthly Booking Trend
-<img width="250" height="129" alt="Screenshot 2026-02-05 210312" src="https://github.com/user-attachments/assets/f51aef4b-b234-44e4-839c-1d1a180aef5c" />
 
 
- Market Segments with the Highest Revenue
- <img width="129" height="103" alt="Screenshot 2026-02-05 210409" src="https://github.com/user-attachments/assets/2b7fc463-cbea-4fa3-9f1b-cff822076e48" />
+<p align="center"> <img width="250" height="129" alt="Screenshot 2026-02-05 210312" src="https://github.com/user-attachments/assets/f51aef4b-b234-44e4-839c-1d1a180aef5c" /> <br> <em>Monthly Booking Trend</em> </p>
 
 
-  How Much Booking Volume Is Lost to Cancellation?
-  <img width="119" height="103" alt="Screenshot 2026-02-05 210432" src="https://github.com/user-attachments/assets/5a03c620-b67e-4021-83e2-05c6d4f3ff1e" />
+ 
+ 
+ <p align="center"> <img width="129" height="103" alt="Screenshot 2026-02-05 210409" src="https://github.com/user-attachments/assets/2b7fc463-cbea-4fa3-9f1b-cff822076e48" /> <br> <em>Market Segments with the Highest Revenue</em> </p>
+
+
+ 
+  
+ <p align="center"> <img width="119" height="103" alt="Screenshot 2026-02-05 210432" src="https://github.com/user-attachments/assets/5a03c620-b67e-4021-83e2-05c6d4f3ff1e" /> <br> <em> How Much Booking Volume Is Lost to Cancellation?</em> </p>
 
 
   ---
