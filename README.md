@@ -156,7 +156,6 @@ How Much Booking Volume Is Lost to Cancellation?
 
 
 
-
 <p align="center"> <img width="250" height="129" alt="Screenshot 2026-02-05 210312" src="https://github.com/user-attachments/assets/f51aef4b-b234-44e4-839c-1d1a180aef5c" /> <br> <em>Monthly Booking Trend</em> </p>
 
 
