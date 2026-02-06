@@ -172,8 +172,7 @@ How Much Booking Volume Is Lost to Cancellation?
 
 
 
- <p align="center" <img width="258" height="124" alt="Screenshot 2026-02-05 210345" src="https://github.com/user-attachments/assets/a448c95e-1750-4a3f-87f3-4264a0a8e019" />
- <br> <em> Top 5 Countries with the Highest Bookings</em> </p>
+ <p align="center" <img width="258" height="124" alt="Screenshot 2026-02-05 210345" src="https://github.com/user-attachments/assets/a24c7571-2816-409e-bfa6-34cb4682fa6c" /><br> <em> Top 5 Countries with the Highest Bookings</em> </p>
 
 
   ---
