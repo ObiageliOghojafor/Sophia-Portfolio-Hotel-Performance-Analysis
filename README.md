@@ -151,8 +151,8 @@ How Much Booking Volume Is Lost to Cancellation?
 ---
 ## Data Visualization
 ---
-Top 5 Countries with the Highest Bookings
-<img width="258" height="124" alt="Screenshot 2026-02-05 210345" src="https://github.com/user-attachments/assets/cce5625d-367c-4490-a4e3-89e1fe362e47" />
+
+<p align="center" <img width="258" height="124" alt="Screenshot 2026-02-05 210345" src="https://github.com/user-attachments/assets/cce5625d-367c-4490-a4e3-89e1fe362e47" /> <br> <em> Top 5 Countries with the Highest Bookings</em> </p>
 
 
 Monthly Booking Trend
@@ -165,6 +165,80 @@ Monthly Booking Trend
 
   How Much Booking Volume Is Lost to Cancellation?
   <img width="119" height="103" alt="Screenshot 2026-02-05 210432" src="https://github.com/user-attachments/assets/5a03c620-b67e-4021-83e2-05c6d4f3ff1e" />
+
+
+  ---
+  ## Conclusion
+  ---
+  So what does this dashboard change?
+
+This analysis reveals that hotel performance is driven by strong seasonality, market concentration, and a significant impact from cancellations. A small number of countries and market segments contribute the majority of bookings and revenue, while peak booking periods place pressure on pricing and operational planning.
+
+By making these patterns visible, the dashboard enables management to:
+
+    Focus marketing efforts on high-value markets
+
+    Adjust pricing strategies during peak demand periods
+
+    Reduce revenue loss by addressing cancellations
+
+    Plan resources more effectively across the year
+
+In short:
+
+    This dashboard turns raw booking data into actionable insights that improve revenue stability, operational planning, and strategic decision-making.
+
+
+---
+## Recommendation
+---
+Top 5 Countries with the Highest Bookings
+
+   Protect and strengthen the Portuguese market through loyalty programs and targeted promotions.
+
+    Increase marketing and partnership efforts in the UK, France, and Spain to balance demand.
+
+    Explore tailored offers or localized campaigns to stimulate bookings from underperforming countries.
+
+    Reduce over-dependence on one market by diversifying demand sources.
+
+
+Monthly Booking Trend
+    
+    Implement dynamic pricing strategies during peak months to maximize revenue.
+
+    Use promotions and discounts to stimulate demand during low-booking periods.
+
+    Align staffing, inventory, and operational planning with seasonal booking patterns.
+
+    Monitor monthly trends to improve forecast accuracy.
+
+
+ Market Segments with the Highest Revenue
+
+    Strengthen direct booking channels to reduce dependency on OTAs.
+
+    Introduce incentives such as discounts or loyalty benefits for direct bookings.
+
+    Re-evaluate corporate and group pricing to ensure profitability.
+
+    Balance channel mix to improve net revenue margins.
+
+
+How Much Booking Volume Is Lost to Cancellation?
+
+    Review and tighten cancellation policies where appropriate.
+
+    Introduce non-refundable or partially refundable rates to reduce cancellations.
+
+    Improve booking confirmation speed to increase customer commitment.
+
+    Analyze cancellations by customer segment to apply targeted mitigation strategies.
+
+
+
+
+
 
 
 
